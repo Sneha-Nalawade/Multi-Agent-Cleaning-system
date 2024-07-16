@@ -1,0 +1,6 @@
+1. Now, that you have generated a sample env map from the given image, and also generated some augmented 
+images and annotations from the sample image....now think about building a model!!! u-net or something else..
+and joh bhi he woh banake train karo!
+
+
+https://app.cvat.ai/tasks/779352?page=1
