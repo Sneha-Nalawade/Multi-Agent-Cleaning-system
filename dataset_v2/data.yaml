@@ -1,0 +1,8 @@
+# path: ../datasets/roboflow
+
+train: ../dataset_v2/train/images
+val: ../dataset_v2/valid/images
+test: ../dataset_v2/test/images
+
+names: 
+  0: garbage-trXY

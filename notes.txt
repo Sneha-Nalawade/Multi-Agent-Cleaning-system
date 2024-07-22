@@ -4,3 +4,7 @@ and joh bhi he woh banake train karo!
 
 
 https://app.cvat.ai/tasks/779352?page=1
+
+
+bounding box annotation use kar, YOLO (instead of U-Net) use karo for training a model, such that yeh model koi 
+image le, and output mein iss image ke bounding boxes return karein
