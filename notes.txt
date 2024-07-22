@@ -8,3 +8,13 @@ https://app.cvat.ai/tasks/779352?page=1
 
 bounding box annotation use kar, YOLO (instead of U-Net) use karo for training a model, such that yeh model koi 
 image le, and output mein iss image ke bounding boxes return karein
+
+# dated: 22/07/2024
+NOTE:
+current files to refer in a flow:
+1. dataset used: dataset_v2
+2. model trained, used and envmap created: garbageDetection_v2.ipynb
+3. trained model saved: model/yolov8_garbage_detection.pt
+4. predicted output and resultant images in: runs folder
+(the bounding box labels are not currently stored as a file, and are obtained 
+and stored in a variable (temporarily) whenever image labelling is carried out)
