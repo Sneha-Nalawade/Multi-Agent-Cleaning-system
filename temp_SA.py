@@ -164,7 +164,7 @@ class SACostOptimization:
         return [(robot.robo_id, robot.tasks) for robot in self.robots]
 
     def calculate_cost(self):
-        max_cost = 0
+        max_cost = 0    
         for robot in self.robots:
             cost = 0
             previous_task = Point(0, 0)
